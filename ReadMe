@@ -1,0 +1,6 @@
+For this assignment we were given a base project to work from that was written by our lecturer. I have not included and of these files as it was not my work.
+The key goal of this assignment was to produce a number of different pixel and vertex shaders to produce different effects on objects in the scene.
+These effects were: normal mapping, parallax mapping, linear interpolation, cell shading, vertex manipulation, alpha additive and multiplicative blending.
+The project also implements three different forms of lighting, point lights, directional lights and ambient lighting.
+
+If available, a link to a video demonstrating the project can be found in a text file in the repository
